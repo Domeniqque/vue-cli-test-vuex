@@ -1,5 +1,5 @@
 # Vue, vuex e testes
-> Projeto para Projeto para entendimento do uso e configuração do vuex
+> Projeto para entendimento do uso e configuração do vuex
 
 ## Build Setup
 
